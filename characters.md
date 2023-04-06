@@ -1,7 +1,9 @@
 Beginning
+
 Conscious
 
 Shore
+
 Bass Player 1
 
 Ukelele Player 1
@@ -13,6 +15,7 @@ Piano Player 1
 Percussion Player 1
 
 City
+
 Consumer 1
 
 Activist 1
